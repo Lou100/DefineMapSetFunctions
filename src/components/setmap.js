@@ -4,7 +4,7 @@ const setmap = [
     id: 1,
     name: "map() Function",
     meaning:
-      "When mapping functions in Javascript we use the map() function.  The map() function is used with an array lists to map out and show data from an array list to an object. The map() function takes the values in the array list and passes the information over inside the parentheses."
+      "When mapping functions in Javascript we use the map() function.  The map() function is used with an array list to map out and show data from an array list to an object. The map() function takes the values in the array list and passes the information over inside the parentheses."
   },
   {
     id: 2,
