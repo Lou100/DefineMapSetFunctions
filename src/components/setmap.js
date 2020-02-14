@@ -10,7 +10,7 @@ const setmap = [
     id: 2,
     name: "set() Function",
     meaning:
-      "The set() function acts as a container and lets you store unique values of any type, whether it's primitive values or object references. The set() function normally never is used by its self, its used with other methods such as the The add() method, which appends a new element with a specified value to the end of a set() function."
+      "The set() function acts as a container and lets you store unique values of any type, whether it's primitive values or object references. The set() function normally never is used by its self, its used with other methods such as the add() method, which appends a new element with a specified value to the end of a set() function."
   }
 ];
 
